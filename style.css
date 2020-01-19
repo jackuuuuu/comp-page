@@ -8,7 +8,7 @@ body {
 
 h1 {
 	text-align: left;
-	font-size: 40px;
+	font-size: 20px;
 	font-weight: bold;
 	color: #000000;
 }
@@ -27,24 +27,14 @@ h2 {
 
 .company-name {
 	text-align: left;
-	font-size: 60px;
+	font-size: 40px;
 	padding-top: 40px;
 	padding-bottom: 40px;
 	color: #000000;
 }
 
 
-.column3 {
-	float: right;
-	width: 33%;
-}
-
-.column2 {
-	float: middle;
-	width: 33%;
-}
-
-.column1 {
+.columns3 {
 	float: left;
 	width: 33%;
 }
