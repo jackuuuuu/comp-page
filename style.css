@@ -20,6 +20,35 @@ h2 {
 	color: #ffffff;
 }
 
+.row {
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+.company-name {
+	text-align: left;
+	font-size: 60px;
+	padding-top: 40px;
+	padding-bottom: 40px;
+	color: #ffffff;
+}
+
+
+.column3 {
+	float: right;
+	width: 33%;
+}
+
+.column2 {
+	float: middle;
+	width: 33%;
+}
+
+.column1 {
+	float: left;
+	width: 33%;
+}
+
 .button1 {
 	color: #ffffff;
 	border: none;
